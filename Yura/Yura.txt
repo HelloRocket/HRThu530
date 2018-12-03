@@ -1,0 +1,4 @@
+Hello Yura
+
+This is where we will learn to share and collaborate files with git.
+Don't be scared. Don't worry. Don't be shy.
